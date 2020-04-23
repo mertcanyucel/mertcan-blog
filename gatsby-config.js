@@ -12,7 +12,7 @@ module.exports = {
     siteUrl: `https://mertcanyucel.com`,
     home: {
       title: `Hi! I'm Mertcan`,
-      description: `I have been specifically designed to become a digital home for designers and developers, help them build amazing professional looking websites with ease. You don't have to worry about nitty gritty of web hosting services to run a blog and yet take full advantage of CMS to manage content :)`,
+      description: `I am Entrepreneur in Residence, co-creator of Getform, technology blogger and researcher. I share my ideas here at my personal blog both in Turkish and English :)`,
     },
     /* W3Layouts domain verification key for contact forms https://my.w3layouts.com/Forms/ */
     w3l_dom_key: `5e609f7a2d23fCF_Domain_verify` 
